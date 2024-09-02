@@ -5,6 +5,8 @@ GM SM2/3/4 library based on Golang
 
 [![Build Status](https://travis-ci.com/tjfoc/gmsm.svg?branch=master)](https://travis-ci.com/github/tjfoc/gmsm)
 
+## Fork说明
+移除了各种框架的tls接入，只保留了基础的加解密部分，避免引入复杂的依赖
 
 ## Feature
  gmsm包含以下主要功能
